@@ -1,7 +1,19 @@
-# Vue 3 + Vite
+# ATM with Vue 3
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This **ATM and bank manager simulator** was created to demonstrate and practice skills and knowledge in the most recent version of the JavaScript library: VueJS. In this project, you can see state handling, API consumption, security, styles, etc.
 
-## Recommended IDE Setup
+To test this project, it is also necessary to install its [backend in this link](https://github.com/Santiago1010/atm-php "backend in this link").
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+## Install
+
+For the installation of this part of the project, it is necessary to download the resources from this repository:
+
+`git pull origin main --allow-unrelated-histories`
+
+or
+
+`git clone`
+
+Once you have the resources hosted on your machine, you should use `npm install` to install the necessary dependencies.
+
+After all this, to view the project, use `npm run dev`. **Remember that for its proper functioning**, you need to [download the backend resources](https://github.com/Santiago1010/atm-php "download the backend resources").
